@@ -1,24 +1,29 @@
 # gtxy27
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 7 mins         ████████████░░░░░░░░░░░░░   49.47 % 
+TypeScript               34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+Markdown                 34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Firefox                  1 hr 51 mins        ████████████████████░░░░░   81.81 % 
+VS Code                  24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lexipath                 1 hr 4 mins         ████████████░░░░░░░░░░░░░   47.21 % 
+waka-readme-stats        48 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
+gtxy27                   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -34,5 +39,5 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 15:05:10 UTC
+ Last Updated on 19/01/2026 01:41:56 UTC
 <!--END_SECTION:waka-->
