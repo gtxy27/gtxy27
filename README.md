@@ -9,40 +9,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 57 mins      █████████████████░░░░░░░░   67.82 % 
-TypeScript               4 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
-Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    3 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.66 % 
+TypeScript               3 hrs 51 mins       ██████████░░░░░░░░░░░░░░░   38.40 % 
+Markdown                 1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔥 Editors: 
-Firefox                  12 hrs 4 mins       █████████████████░░░░░░░░   68.53 % 
-Trae                     3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
-VS Code                  1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Firefox                  3 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.75 % 
+Trae                     3 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+VS Code                  2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
 
 🐱‍💻 Projects: 
-ide                      15 hrs 30 mins      ██████████████████████░░░   87.98 % 
-Trellis                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-oh-my-opencode           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-OpenSpec                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-FaceRecognition          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+ide                      8 hrs 21 mins       █████████████████████░░░░   83.22 % 
+token                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+OpenSpec                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+FaceRecognition          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+billd-desk               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Windows                  17 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
-Go                       5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Go                       6 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
 Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 25/02/2026 01:58:07 UTC
+ Last Updated on 26/02/2026 01:53:29 UTC
 <!--END_SECTION:waka-->
