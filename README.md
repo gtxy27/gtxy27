@@ -1,7 +1,7 @@
 # gtxy27
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-250%20hrs%2051%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,40 +9,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       14 hrs 20 mins      ████████████░░░░░░░░░░░░░   46.90 % 
-Markdown                 5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
-HTML                     2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-TypeScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-JSON                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Go                       12 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.01 % 
+Markdown                 5 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Other                    3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+HTML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 14 mins      ████████████████████████░   95.67 % 
-Firefox                  1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+VS Code                  26 hrs 27 mins      ██████████████████████░░░   89.42 % 
+Firefox                  2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+IntelliJ IDEA            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-crossborder-selection    12 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.86 % 
-ozon-1688                8 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-auto-img-cycle           8 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Unknown Project          55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-1688-ozon                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+crossborder-selection    10 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   35.17 % 
+auto-img-cycle           9 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
+ozon-1688                8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.10 % 
+Unknown Project          52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+1688-ozon                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  30 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
-Go                       7 repos             ████████░░░░░░░░░░░░░░░░░   30.43 % 
-Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+Go                       8 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 02:07:37 UTC
+ Last Updated on 28/03/2026 01:58:39 UTC
 <!--END_SECTION:waka-->
