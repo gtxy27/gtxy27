@@ -1,7 +1,7 @@
 # gtxy27
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2030%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,16 +9,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Other                    4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Firefox                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Firefox                  4 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-crossborder-selection    2 hrs 19 mins       █████████████████████████   100.00 % 
+crossborder-selection    4 hrs 12 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -34,5 +34,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2026 02:08:23 UTC
+ Last Updated on 08/04/2026 02:09:27 UTC
 <!--END_SECTION:waka-->
