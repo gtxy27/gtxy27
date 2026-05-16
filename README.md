@@ -1,6 +1,8 @@
 # gtxy27
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%201%20min-blue?style=flat)
+
 **I Mostly Code in Go** 
 
 ```text
@@ -14,5 +16,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 02:54:41 UTC
+ Last Updated on 16/05/2026 02:41:46 UTC
 <!--END_SECTION:waka-->
