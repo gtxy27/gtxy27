@@ -1,7 +1,7 @@
 # gtxy27
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2020%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -9,40 +9,40 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   20 hrs 21 mins      ██████████████░░░░░░░░░░░   54.82 % 
-Markdown                 6 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-TypeScript               3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-PowerShell               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Python                   21 hrs 39 mins      ████████████░░░░░░░░░░░░░   47.29 % 
+Markdown                 9 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+TypeScript               6 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Other                    2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Go                       1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 49 mins      ██████████████████████░░░   88.39 % 
-Claude Code              4 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+VS Code                  40 hrs 31 mins      ██████████████████████░░░   88.47 % 
+Claude Code              5 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-eth                      31 hrs 12 mins      █████████████████████░░░░   84.02 % 
-ozon-1688                4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-prpr-sirius              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-信息安全技术实训                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-网络配置实训                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+eth                      36 hrs 49 mins      ████████████████████░░░░░   80.37 % 
+ozon-1688                7 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+prpr-sirius              46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+网络配置实训                   17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+信息安全技术实训                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Windows                  37 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  45 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       11 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
-TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   35.71 % 
-Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Go                       11 repos            █████████░░░░░░░░░░░░░░░░   37.93 % 
+TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   34.48 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on 11/06/2026 03:40:41 UTC
+ Last Updated on 12/06/2026 03:40:30 UTC
 <!--END_SECTION:waka-->
