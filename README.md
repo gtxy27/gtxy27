@@ -20,8 +20,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ts,py,solidity" alt="Go、TypeScript、Python、Solidity" />
+    <img src="https://skillicons.dev/icons?i=go,ts,py,c,bash,nodejs,nextjs,npm,postgres,git,linux" alt="Go、TypeScript、Python、C、Bash、Node.js、Next.js、npm、PostgreSQL、Git、Linux" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
 </p>
 
 ---
