@@ -11,7 +11,7 @@
 
 - 🎓 在校学生，正在打基础、补短板的阶段
 - 💻 主力语言是 **Go** 和 **TypeScript**，**Python** 用来处理数据与自动化
-- 🛠️ 趁手的工具：**VS Code** + **Claude Code**，系统是 Windows
+- 🛠️ 趁手的工具：**VS code** + **Claude Code**，系统是 Mac (现在喜欢用 Orca！
 - 🌱 目前在认真打磨工程能力，也在摸索区块链方向
 
 ---
