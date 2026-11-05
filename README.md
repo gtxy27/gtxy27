@@ -9,11 +9,7 @@
 
 ## 关于我
 
-- 🎓 在校学生，正在打基础、补短板的阶段
-- 💻 主力语言是 **Go** 和 **TypeScript**，**Python** 用来处理数据与自动化
-- 🛠️ 趁手的工具：**VS code** + **Claude Code**，系统是 Mac (现在喜欢用 Orca！
-- 🌱 目前在认真打磨工程能力，也在摸索区块链方向
-
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/gtxy27?lang=zh)](https://ghfind.com/u/gtxy27?ref=badge)
 ---
 
 <h2 align="center">技术栈</h2>
@@ -31,12 +27,8 @@
 
 ---
 
-## 正在做的事
 
-- **eth** —— 学习区块链与智能合约，目前投入最多的方向
-- **ozon-1688** —— 跨境电商相关的小工具与自动化尝试
 
-都是边学边做的项目，欢迎交流，也欢迎指正。
 
 ---
 
