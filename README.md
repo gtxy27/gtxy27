@@ -9,7 +9,7 @@
 
 ## 关于我
 
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/gtxy27?lang=zh)](https://ghfind.com/u/gtxy27?ref=badge)
+<center>[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/gtxy27?lang=zh)](https://ghfind.com/u/gtxy27?ref=badgec/enter)</center>
 ---
 
 <h2 align="center">技术栈</h2>
